@@ -1,8 +1,8 @@
 # Elect-IA
 
 Ce projet contient :
-1) le fichier "extraction.py" pour réaliser l'extraction de programmes de candidats (fichiers PDF) suités dans un répertoire local et créer un fichier data.csv stockant les programmes extraits.    
-2) notebook permettant l'analyse des dits programmes
+1) Le fichier "extraction.py" pour réaliser l'extraction de programmes de candidats (fichiers PDF) suités dans un répertoire local et créer un fichier data.csv stockant les programmes extraits.    
+2) Le fichier "Analyse.py" permettant l'analyse des dits programmes
 
 ## Prérequis
 
