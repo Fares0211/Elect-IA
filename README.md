@@ -6,7 +6,7 @@ Ce projet contient :
 
 ## Prérequis
 
-Python 3.x
+Python 3.6
 
 ## Installation
 
