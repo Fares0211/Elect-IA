@@ -1,4 +1,4 @@
-# Elect-IA
+# Elect-IA : analyse des programmes des candidats à une élection grâce au traitement du langage naturel.
 
 Ce projet contient :
 1) Le fichier "extraction.py" pour réaliser l'extraction de programmes de candidats (fichiers PDF) suités dans un répertoire local et créer un fichier data.csv stockant les programmes extraits.    
